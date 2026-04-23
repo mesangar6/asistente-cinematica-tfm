@@ -73,8 +73,6 @@ Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido:
 OPENAI_API_KEY=sk-tu_clave_aqui
 ```
 
-> ⚠️ **Nunca compartas tu API key públicamente.** El archivo `.env` está incluido en `.gitignore` para que no se suba a GitHub.
-
 ### 4. Ejecuta la versión que quieras probar
 
 ```bash
