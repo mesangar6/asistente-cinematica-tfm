@@ -3,7 +3,7 @@
 **TFM:** *Generación asistida por IA de un profesor ayudante virtual para apoyar a estudiantes de STEM en secundaria*  
 **Autora:** Melani Sánchez García  
 **Curso:** Máster Universitario en Profesor/a de Educación Secundaria
-**Año:** 2024-2025
+**Año:** 2025-2026
 
 ---
 
