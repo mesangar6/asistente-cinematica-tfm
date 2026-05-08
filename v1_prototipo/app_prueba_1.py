@@ -8,13 +8,9 @@ import os
 # -------------------------
 # CONFIGURACIÓN API
 # -------------------------
-# Crea un archivo .env en la raíz del proyecto con:
-#   OPENAI_API_KEY=sk-tu_clave_aqui
-# Nunca pongas la clave directamente en el código.
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
 
 # -------------------------
 # INTERFAZ
